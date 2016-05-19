@@ -1,0 +1,8 @@
+1. 此demo为eclipse java工程。
+2. 解压后 file > import > Existing Projects into Workspace。
+3. 设置工程为UTF-8编码。
+4. 运行spring.Main类，即可看到运行结果。
+5. 本示例所用6个jar包都为开源框架。
+6. 开发者需要修改成自己的appid和token。
+7. 开发者需要自己处理各种异常。
+8. 开发者需要自己处理百度返回的错误代码。
